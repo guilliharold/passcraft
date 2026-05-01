@@ -1,2 +1,1 @@
 # 🔐 PassCraft
-> *"Secure by design"*
