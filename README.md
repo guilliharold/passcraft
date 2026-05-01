@@ -1,1 +1,2 @@
-# 🔐 Harold's Password Generator
+# 🔐 PassCraft
+> *"Secure by design"*
